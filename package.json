@@ -26,6 +26,7 @@
     "0http": "^3.0.0",
     "@hapi/hapi": "^20.0.1",
     "@leizm/web": "^2.6.0",
+    "@trpc/server": "^7.2.1",
     "autocannon": "^7.0.1",
     "autocannon-compare": "^0.4.0",
     "chalk": "^4.1.0",
